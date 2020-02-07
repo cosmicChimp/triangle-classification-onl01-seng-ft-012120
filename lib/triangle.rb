@@ -1,25 +1,3 @@
-Skip to content
-Search or jump to…
-
-Pull requests
-Issues
-Marketplace
-Explore
- 
-@cosmicChimp 
-Learn Git and GitHub without any code!
-Using the Hello World guide, you’ll start a branch, write comments, and open a pull request.
-
-
-Code Pull requests 0 Projects 0 Actions Security Pulse
-triangle-classification-onl01-seng-ft-012120/lib/triangle.rb / 
-@reddevilcero reddevilcero Done.
-d0c6ee4 3 days ago
-@realAndrewCohn@ahimmelstoss@reddevilcero@kthffmn
-36 lines (29 sloc)  709 Bytes
-  
-You're using code navigation to jump to definitions or references.
-Learn more or give us feedback
 class Triangle
   # write code here
  attr_reader :side1, :side2, :side3
